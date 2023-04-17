@@ -6,7 +6,7 @@ best sql projects to help you learn the language and develop your skills.
 # Table Of Contents
 # Difficulty Level: Beginner
 
-# Grocery Management System 
+# [Grocery Management System](https://github.com/Wiingy-US/Hospital-Management-System-SQL) 
 
 ![image](https://user-images.githubusercontent.com/120396905/232506680-f06a3fe8-fc94-4454-9e94-0715544b4d0f.png)
 
